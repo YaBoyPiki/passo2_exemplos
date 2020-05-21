@@ -1,0 +1,31 @@
+body { 
+	font-family: monospace; /* Define a caligrafia de todos os caractéres no corpo da página */
+	background-image: url("https://andrehost.com.br/wp-content/uploads/2015/02/o-que-e-o-css3.jpg");
+		/* Define a imagem de fundo da página */
+}
+
+h1 {
+	color: white; /* Coloca o cabeçalho a branco */
+	font-size: 300%; /* Define o tamanho do cabeçalho */
+}
+
+ul {
+	font-size: 200%; /* Define o tamanho do conteúdo da lista */
+	list-style-type: circle; /* Define o tipo de marcador utilizado pela lista */
+}
+
+img {
+	position: fixed; /* A imagem é posicionada em relação à janela do browser */
+	width: 200px; /* Define a largura da imagem */
+	height: 100px; /* Define a altura da imagem */
+    bottom: 0px; /* Define a posição da imagem no eixo vertical (de baixo para cima) */
+    right: 20px; /* Define a posição da imagem no eixo horizontal (da direita para a esquerda) */
+}
+
+.inferior_direito {
+	position: fixed; /* A imagem é posicionada em relação à janela do browser */
+	font-size: 400%; /* Define o tamanho do cabeçalho */
+    bottom: 20px; /* Define a posição da imagem no eixo vertical (de baixo para cima) */
+    right: 35px; /* Define a posição da imagem no eixo horizontal (da direita para a esquerda) */
+}
+

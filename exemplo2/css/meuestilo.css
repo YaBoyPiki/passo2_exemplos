@@ -1,0 +1,4 @@
+#paragrafo1 { /* Apenas o único elemento possudor do id "paragrafo1" será afetado por este styling */
+    text-align: center; /* Centraliza o texto */
+    color: red; /* Altera a cor para vermelho */
+}

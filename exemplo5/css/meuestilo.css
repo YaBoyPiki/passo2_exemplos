@@ -1,0 +1,8 @@
+p.centro { /* O styling apenas afetará os elementos que sejam "p" e pertençam à classe "centro", em simultâneo */
+    text-align: center; /* Centraliza o texto */
+    color: red; /* Coloca o texto em vermelho */
+}
+   
+p.largo { /* O styling apenas afetará os elementos que sejam "p" e pertençam à classe "largo", em simultâneo */
+    font-size: 300%; /* Aummenta o tamanho da letra para 300% */
+}

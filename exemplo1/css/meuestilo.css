@@ -1,0 +1,4 @@
+p { /* Styling será apenas aplicado aos elementos da tag "p" */
+	text-align: center; /* Centraliza o texto */
+    color: red; /* Altera a cor para vermelho */
+}

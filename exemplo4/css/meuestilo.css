@@ -1,0 +1,4 @@
+p.centro { /* O styling apenas afetará os elementos que sejam "p" e pertençam à classe "centro", em simultâneo */
+    text-align: center; /* Centraliza o texto */
+    color: red; /* Coloca a cor do texto a vermelho */
+}

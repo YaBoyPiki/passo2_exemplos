@@ -1,0 +1,4 @@
+.centro { /* Apenas elementos da classe "centro" serão afetados pelo styling */
+    text-align: center; /* Centraliza o texto */
+    color: red; /* Coloca o texto a vermelho */
+}
